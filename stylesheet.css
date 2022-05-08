@@ -1,0 +1,32 @@
+#text {
+  color: red; 
+  text-align: center;
+  font-size: larger;
+}
+#image  {
+  margin: auto;
+    display: block;
+}
+#image2 {
+    height: 300px;
+    position: absolute;
+    left: 450px;
+    top: 400px;
+}
+
+#image3 {
+  height: 400px;
+  position: absolute;
+  left: 1200px;
+  top: 350px;
+}
+
+h1 {
+  color: pink;
+}
+body {
+  background-color: #FAF0E6;
+}
+h1 {
+text-align: center;
+}
